@@ -1,5 +1,5 @@
 from lib.db.connection import get_connection
-from lib.models.article import Article
+from lib.models.articles import Article
 from lib.models.magazine import Magazine
 
 class Author:
